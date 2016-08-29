@@ -1,0 +1,8 @@
+
+x = [1,2,3,4,5,6,7,8,9,10]
+
+y = [1,1,1,1,1,1,1,8,10,10]
+
+These two sets have a correlation coefficient of .7725
+
+I knew that a correlation between .7 and .8 had to be a strong positive correlation, but not exactly a line with a slope of one.  I used an app that plotted points and started to play around with the numbers allowing me to get close to my goal.  I finally plugged my lists into a correlation calculator to make sure that the correlation coefficient was bound between .7 and .8
